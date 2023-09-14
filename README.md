@@ -2,4 +2,4 @@
 
 <p>Furthermore, it is nice to see that many of the top companies in the generative AI field are signing on to keep AI safe. I do hope that these pledges are meaningful rather than just meaningless talks though. 
 
-<p>https://www.nytimes.com/2023/09/12/technology/white-house-ai-tech-pledge.html
+[NYT: 8 More Companies Pledge to Make A.I. Safe, White House Says](https://www.nytimes.com/2023/09/12/technology/white-house-ai-tech-pledge.html)
